@@ -1,0 +1,13 @@
+
+
+body   {
+    background: url("http://www.wallpaperhi.com/thumbnails/detail/20120108/Golden_Day.jpg");
+    background-size:cover;
+    background-color: azure;
+    }
+
+.red {color: red;}
+.blue {color:blue;}
+.white {color:white;}
+#kam {padding-left: 8%;}
+#od {padding-left: 65%}
